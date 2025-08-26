@@ -1,0 +1,303 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 group-title="联通" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
+rtsp://112.86.202.37:554/JSBC_iptv/C10000037@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV2
+rtsp://112.86.202.37:554/JSBC_iptv/C10000038@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV3
+rtsp://112.86.202.37:554/JSBC_iptv/C10000012@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
+rtsp://112.86.202.37:554/JSBC_iptv/C10000039@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
+rtsp://112.86.202.37:554/JSBC_iptv/C10000009@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV5+HD" tvg-logo="https://epg.112114.xyz/logo/CCTV5+HD.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000040@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
+rtsp://112.86.202.37:554/JSBC_iptv/C10000018@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV7
+rtsp://112.86.202.37:554/JSBC_iptv/C10000196@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV8
+rtsp://112.86.202.37:554/JSBC_iptv/C10000020@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV9
+rtsp://112.86.202.37:554/JSBC_iptv/C10000042@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV10
+rtsp://112.86.202.37:554/JSBC_iptv/C10000119@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV11
+ rtsp://112.86.202.37:554/JSBC_iptv/C10000023@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV12
+rtsp://112.86.202.37:554/JSBC_iptv/C10000120@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV13
+rtsp://112.86.202.37:554/JSBC_iptv/C10000232@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV14
+rtsp://112.86.202.37:554/JSBC_iptv/C10000121@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV15
+rtsp://112.86.202.37:554/JSBC_iptv/C10000027@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV17
+rtsp://112.86.202.37:554/JSBC_iptv/C10000041@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CETV1HD" tvg-logo="https://epg.112114.xyz/logo/CETV1HD.png" epg-url="https://epg.112114.xyz/pp.xml",CETV1HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000173@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" epg-url="https://epg.112114.xyz/pp.xml",CETV2
+rtsp://112.86.202.37:554/JSBC_iptv/C10000098@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="湖南卫视HD" tvg-logo="https://epg.112114.xyz/logo/湖南卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",湖南卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000043@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="浙江卫视HD" tvg-logo="https://epg.112114.xyz/logo/浙江卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",浙江卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000044@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="东方卫视HD" tvg-logo="https://epg.112114.xyz/logo/东方卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",东方卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000045@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="北京卫视HD" tvg-logo="https://epg.112114.xyz/logo/北京卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",北京卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000046@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="北京纪实HD" tvg-logo="https://epg.112114.xyz/logo/北京纪实HD.png" epg-url="https://epg.112114.xyz/pp.xml",北京纪实HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000193@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="广东卫视HD" tvg-logo="https://epg.112114.xyz/logo/广东卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",广东卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000047@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="深圳卫视HD" tvg-logo="https://epg.112114.xyz/logo/深圳卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",深圳卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000048@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="安徽卫视HD" tvg-logo="https://epg.112114.xyz/logo/安徽卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",安徽卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000192@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="河南卫视HD" tvg-logo="https://epg.112114.xyz/logo/河南卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",河南卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000185@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="黑龙江卫视HD" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",黑龙江卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000050@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="山东卫视HD" tvg-logo="https://epg.112114.xyz/logo/山东卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",山东卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000049@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="湖北卫视HD" tvg-logo="https://epg.112114.xyz/logo/湖北卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",湖北卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000051@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="天津卫视HD" tvg-logo="https://epg.112114.xyz/logo/天津卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",天津卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000052@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="重庆卫视HD" tvg-logo="https://epg.112114.xyz/logo/重庆卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",重庆卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000053@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="四川卫视HD" tvg-logo="https://epg.112114.xyz/logo/四川卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",四川卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000167@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江西卫视HD" tvg-logo="https://epg.112114.xyz/logo/江西卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",江西卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000168@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="东南卫视HD" tvg-logo="https://epg.112114.xyz/logo/东南卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",东南卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000169@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="吉林卫视HD" tvg-logo="https://epg.112114.xyz/logo/吉林卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",吉林卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000170@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="贵州卫视HD" tvg-logo="https://epg.112114.xyz/logo/贵州卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",贵州卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000171@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="河北卫视HD" tvg-logo="https://epg.112114.xyz/logo/河北卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",河北卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000172@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="辽宁卫视HD" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",辽宁卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000141@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="广西卫视HD" tvg-logo="https://epg.112114.xyz/logo/广西卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",广西卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000198@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="海南卫视HD" tvg-logo="https://epg.112114.xyz/logo/海南卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",海南卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000200@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="云南卫视HD" tvg-logo="https://epg.112114.xyz/logo/云南卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",云南卫视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000202@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="电视指南HD" tvg-logo="https://epg.112114.xyz/logo/电视指南HD.png" epg-url="https://epg.112114.xyz/pp.xml",电视指南HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000203@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="风云足球HD" tvg-logo="https://epg.112114.xyz/logo/风云足球HD.png" epg-url="https://epg.112114.xyz/pp.xml",风云足球HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000204@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="高尔夫网球HD" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球HD.png" epg-url="https://epg.112114.xyz/pp.xml",高尔夫网球HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000205@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="世界地理HD" tvg-logo="https://epg.112114.xyz/logo/世界地理HD.png" epg-url="https://epg.112114.xyz/pp.xml",世界地理HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000206@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="兵器科技HD" tvg-logo="https://epg.112114.xyz/logo/兵器科技HD.png" epg-url="https://epg.112114.xyz/pp.xml",兵器科技HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000207@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="风云剧场HD" tvg-logo="https://epg.112114.xyz/logo/风云剧场HD.png" epg-url="https://epg.112114.xyz/pp.xml",风云剧场HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000208@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="风云音乐HD" tvg-logo="https://epg.112114.xyz/logo/风云音乐HD.png" epg-url="https://epg.112114.xyz/pp.xml",风云音乐HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000211@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="女性时尚HD" tvg-logo="https://epg.112114.xyz/logo/女性时尚HD.png" epg-url="https://epg.112114.xyz/pp.xml",女性时尚HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000212@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="央视精品HD" tvg-logo="https://epg.112114.xyz/logo/央视精品HD.png" epg-url="https://epg.112114.xyz/pp.xml",央视精品HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000209@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="央视怀旧剧场HD" tvg-logo="https://epg.112114.xyz/logo/央视怀旧剧场HD.png" epg-url="https://epg.112114.xyz/pp.xml",央视怀旧剧场HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000210@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江苏城市HD" tvg-logo="https://epg.112114.xyz/logo/江苏城市HD.png" epg-url="https://epg.112114.xyz/pp.xml",江苏城市HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000224@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江苏公共新闻HD" tvg-logo="https://epg.112114.xyz/logo/江苏公共新闻HD.png" epg-url="https://epg.112114.xyz/pp.xml",江苏公共新闻HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000229@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江苏教育HD" tvg-logo="https://epg.112114.xyz/logo/江苏教育HD.png" epg-url="https://epg.112114.xyz/pp.xml",江苏教育HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000231@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江苏体育休闲HD" tvg-logo="https://epg.112114.xyz/logo/江苏体育休闲HD.png" epg-url="https://epg.112114.xyz/pp.xml",江苏体育休闲HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000226@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江苏影视HD" tvg-logo="https://epg.112114.xyz/logo/江苏影视HD.png" epg-url="https://epg.112114.xyz/pp.xml",江苏影视HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000227@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江苏综艺HD" tvg-logo="https://epg.112114.xyz/logo/江苏综艺HD.png" epg-url="https://epg.112114.xyz/pp.xml",江苏综艺HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000225@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="优漫卡通HD" tvg-logo="https://epg.112114.xyz/logo/优漫卡通HD.png" epg-url="https://epg.112114.xyz/pp.xml",优漫卡通HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000228@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="金鹰纪实HD" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实HD.png" epg-url="https://epg.112114.xyz/pp.xml",金鹰纪实HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000187@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="茶HD" tvg-logo="https://epg.112114.xyz/logo/茶HD.png" epg-url="https://epg.112114.xyz/pp.xml",茶HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000160@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="快乐垂钓HD" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓HD.png" epg-url="https://epg.112114.xyz/pp.xml",快乐垂钓HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000142@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" epg-url="https://epg.112114.xyz/pp.xml",宁夏卫视
+rtsp://112.86.202.37:554/JSBC_iptv/C10000163@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" epg-url="https://epg.112114.xyz/pp.xml",甘肃卫视
+rtsp://112.86.202.37:554/JSBC_iptv/C10000164@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" epg-url="https://epg.112114.xyz/pp.xml",新疆卫视
+rtsp://112.86.202.37:554/JSBC_iptv/C10000165@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" epg-url="https://epg.112114.xyz/pp.xml",陕西卫视
+rtsp://112.86.202.37:554/JSBC_iptv/C10000177@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="南方卫视" tvg-logo="https://epg.112114.xyz/logo/南方卫视.png" epg-url="https://epg.112114.xyz/pp.xml",南方卫视
+rtsp://112.86.202.37:554/JSBC_iptv/C10000178@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" epg-url="https://epg.112114.xyz/pp.xml",西藏卫视
+rtsp://112.86.202.37:554/JSBC_iptv/C10000184@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="空中课堂" tvg-logo="https://epg.112114.xyz/logo/空中课堂.png" epg-url="https://epg.112114.xyz/pp.xml",空中课堂
+rtsp://112.86.202.37:554/JSBC_iptv/C10000101@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" epg-url="https://epg.112114.xyz/pp.xml",山东教育卫视
+rtsp://112.86.202.37:554/JSBC_iptv/C10000180@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="先锋乒羽" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" epg-url="https://epg.112114.xyz/pp.xml",先锋乒羽
+rtsp://112.86.202.37:554/JSBC_iptv/C10000159@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="直播间1" tvg-logo="https://epg.112114.xyz/logo/直播间1.png" epg-url="https://epg.112114.xyz/pp.xml",直播间1
+rtsp://112.86.202.37:554/JSBC_iptv/C10000151@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="直播间2" tvg-logo="https://epg.112114.xyz/logo/直播间2.png" epg-url="https://epg.112114.xyz/pp.xml",直播间2
+rtsp://112.86.202.37:554/JSBC_iptv/C10000152@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="搏击俱乐部" tvg-logo="https://epg.112114.xyz/logo/搏击俱乐部.png" epg-url="https://epg.112114.xyz/pp.xml",搏击俱乐部
+rtsp://112.86.202.37:554/JSBC_iptv/C10000116@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="全纪录" tvg-logo="https://epg.112114.xyz/logo/全纪录.png" epg-url="https://epg.112114.xyz/pp.xml",全纪录
+rtsp://112.86.202.37:554/JSBC_iptv/C10000115@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="精彩推荐HD" tvg-logo="https://epg.112114.xyz/logo/精彩推荐HD.png" epg-url="https://epg.112114.xyz/pp.xml",精彩推荐HD
+rtsp://112.86.202.37:554/JSBC_iptv/C10000118@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="游戏达人" tvg-logo="https://epg.112114.xyz/logo/游戏达人.png" epg-url="https://epg.112114.xyz/pp.xml",游戏达人
+rtsp://112.86.202.37:554/JSBC_iptv/C10000082@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="金庸武侠" tvg-logo="https://epg.112114.xyz/logo/金庸武侠.png" epg-url="https://epg.112114.xyz/pp.xml",金庸武侠
+rtsp://112.86.202.37:554/JSBC_iptv/C10000068@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="生活剧场" tvg-logo="https://epg.112114.xyz/logo/生活剧场.png" epg-url="https://epg.112114.xyz/pp.xml",生活剧场
+rtsp://112.86.202.37:554/JSBC_iptv/C10000069@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="随音听乐" tvg-logo="https://epg.112114.xyz/logo/随音听乐.png" epg-url="https://epg.112114.xyz/pp.xml",随音听乐
+rtsp://112.86.202.37:554/JSBC_iptv/C10000076@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="娱乐秀场" tvg-logo="https://epg.112114.xyz/logo/娱乐秀场.png" epg-url="https://epg.112114.xyz/pp.xml",娱乐秀场
+rtsp://112.86.202.37:554/JSBC_iptv/C10000075@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="体坛风云" tvg-logo="https://epg.112114.xyz/logo/体坛风云.png" epg-url="https://epg.112114.xyz/pp.xml",体坛风云
+rtsp://112.86.202.37:554/JSBC_iptv/C10000081@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="举案说法" tvg-logo="https://epg.112114.xyz/logo/举案说法.png" epg-url="https://epg.112114.xyz/pp.xml",举案说法
+rtsp://112.86.202.37:554/JSBC_iptv/C10000077@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="谈股论金" tvg-logo="https://epg.112114.xyz/logo/谈股论金.png" epg-url="https://epg.112114.xyz/pp.xml",谈股论金
+rtsp://112.86.202.37:554/JSBC_iptv/C10000086@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="时尚女人" tvg-logo="https://epg.112114.xyz/logo/时尚女人.png" epg-url="https://epg.112114.xyz/pp.xml",时尚女人
+rtsp://112.86.202.37:554/JSBC_iptv/C10000083@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="铁血军事" tvg-logo="https://epg.112114.xyz/logo/铁血军事.png" epg-url="https://epg.112114.xyz/pp.xml",铁血军事
+rtsp://112.86.202.37:554/JSBC_iptv/C10000073@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="史海钩沉" tvg-logo="https://epg.112114.xyz/logo/史海钩沉.png" epg-url="https://epg.112114.xyz/pp.xml",史海钩沉
+rtsp://112.86.202.37:554/JSBC_iptv/C10000079@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="寰宇纪实" tvg-logo="https://epg.112114.xyz/logo/寰宇纪实.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇纪实
+rtsp://112.86.202.37:554/JSBC_iptv/C10000080@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="养生" tvg-logo="https://epg.112114.xyz/logo/养生.png" epg-url="https://epg.112114.xyz/pp.xml",养生
+rtsp://112.86.202.37:554/JSBC_iptv/C10000084@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="看新闻吧" tvg-logo="https://epg.112114.xyz/logo/看新闻吧.png" epg-url="https://epg.112114.xyz/pp.xml",看新闻吧
+rtsp://112.86.202.37:554/JSBC_iptv/C10000072@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="火爆片场" tvg-logo="https://epg.112114.xyz/logo/火爆片场.png" epg-url="https://epg.112114.xyz/pp.xml",火爆片场
+rtsp://112.86.202.37:554/JSBC_iptv/C10000071@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="华语片场" tvg-logo="https://epg.112114.xyz/logo/华语片场.png" epg-url="https://epg.112114.xyz/pp.xml",华语片场
+rtsp://112.86.202.37:554/JSBC_iptv/C10000070@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="超炫动漫" tvg-logo="https://epg.112114.xyz/logo/超炫动漫.png" epg-url="https://epg.112114.xyz/pp.xml",超炫动漫
+rtsp://112.86.202.37:554/JSBC_iptv/C10000074@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="辽宁游戏竞技" tvg-logo="https://epg.112114.xyz/logo/辽宁游戏竞技.png" epg-url="https://epg.112114.xyz/pp.xml",辽宁游戏竞技
+rtsp://112.86.202.37:554/JSBC_iptv/C10000113@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
+rtsp://157.0.143.37:554/JSBC_iptv/C10000037@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV2
+rtsp://157.0.143.37:554/JSBC_iptv/C10000038@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
+rtsp://157.0.143.37:554/JSBC_iptv/C10000039@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV5+HD" tvg-logo="https://epg.112114.xyz/logo/CCTV5+HD.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000040@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV9
+rtsp://157.0.143.37:554/JSBC_iptv/C10000042@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV10
+rtsp://157.0.143.37:554/JSBC_iptv/C10000119@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV12HD" tvg-logo="https://epg.112114.xyz/logo/CCTV12HD.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV12HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000120@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV13HD" tvg-logo="https://epg.112114.xyz/logo/CCTV13HD.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV13HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000232@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV14HD" tvg-logo="https://epg.112114.xyz/logo/CCTV14HD.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV14HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000121@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CCTV17HD" tvg-logo="https://epg.112114.xyz/logo/CCTV17HD.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV17HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000041@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="CETV1HD" tvg-logo="https://epg.112114.xyz/logo/CETV1HD.png" epg-url="https://epg.112114.xyz/pp.xml",CETV1HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000173@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="湖南卫视HD" tvg-logo="https://epg.112114.xyz/logo/湖南卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",湖南卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000043@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="浙江卫视HD" tvg-logo="https://epg.112114.xyz/logo/浙江卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",浙江卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000044@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="东方卫视HD" tvg-logo="https://epg.112114.xyz/logo/东方卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",东方卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000045@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="北京卫视HD" tvg-logo="https://epg.112114.xyz/logo/北京卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",北京卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000046@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="北京纪实HD" tvg-logo="https://epg.112114.xyz/logo/北京纪实HD.png" epg-url="https://epg.112114.xyz/pp.xml",北京纪实HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000193@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="广东卫视HD" tvg-logo="https://epg.112114.xyz/logo/广东卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",广东卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000047@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="深圳卫视HD" tvg-logo="https://epg.112114.xyz/logo/深圳卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",深圳卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000048@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="安徽卫视HD" tvg-logo="https://epg.112114.xyz/logo/安徽卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",安徽卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000192@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="河南卫视HD" tvg-logo="https://epg.112114.xyz/logo/河南卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",河南卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000185@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="黑龙江卫视HD" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",黑龙江卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000050@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="山东卫视HD" tvg-logo="https://epg.112114.xyz/logo/山东卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",山东卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000049@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="湖北卫视HD" tvg-logo="https://epg.112114.xyz/logo/湖北卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",湖北卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000051@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="天津卫视HD" tvg-logo="https://epg.112114.xyz/logo/天津卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",天津卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000052@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="重庆卫视HD" tvg-logo="https://epg.112114.xyz/logo/重庆卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",重庆卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000053@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="四川卫视HD" tvg-logo="https://epg.112114.xyz/logo/四川卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",四川卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000167@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江西卫视HD" tvg-logo="https://epg.112114.xyz/logo/江西卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",江西卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000168@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="东南卫视HD" tvg-logo="https://epg.112114.xyz/logo/东南卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",东南卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000169@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="吉林卫视HD" tvg-logo="https://epg.112114.xyz/logo/吉林卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",吉林卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000170@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="贵州卫视HD" tvg-logo="https://epg.112114.xyz/logo/贵州卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",贵州卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000171@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="河北卫视HD" tvg-logo="https://epg.112114.xyz/logo/河北卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",河北卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000172@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="辽宁卫视HD" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",辽宁卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000141@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="广西卫视HD" tvg-logo="https://epg.112114.xyz/logo/广西卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",广西卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000198@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="海南卫视HD" tvg-logo="https://epg.112114.xyz/logo/海南卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",海南卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000200@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="云南卫视HD" tvg-logo="https://epg.112114.xyz/logo/云南卫视HD.png" epg-url="https://epg.112114.xyz/pp.xml",云南卫视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000202@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="电视指南HD" tvg-logo="https://epg.112114.xyz/logo/电视指南HD.png" epg-url="https://epg.112114.xyz/pp.xml",电视指南HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000203@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="风云足球HD" tvg-logo="https://epg.112114.xyz/logo/风云足球HD.png" epg-url="https://epg.112114.xyz/pp.xml",风云足球HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000204@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="高尔夫网球HD" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球HD.png" epg-url="https://epg.112114.xyz/pp.xml",高尔夫网球HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000205@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="世界地理HD" tvg-logo="https://epg.112114.xyz/logo/世界地理HD.png" epg-url="https://epg.112114.xyz/pp.xml",世界地理HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000206@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="兵器科技HD" tvg-logo="https://epg.112114.xyz/logo/兵器科技HD.png" epg-url="https://epg.112114.xyz/pp.xml",兵器科技HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000207@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="风云剧场HD" tvg-logo="https://epg.112114.xyz/logo/风云剧场HD.png" epg-url="https://epg.112114.xyz/pp.xml",风云剧场HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000208@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="风云音乐HD" tvg-logo="https://epg.112114.xyz/logo/风云音乐HD.png" epg-url="https://epg.112114.xyz/pp.xml",风云音乐HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000211@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="女性时尚HD" tvg-logo="https://epg.112114.xyz/logo/女性时尚HD.png" epg-url="https://epg.112114.xyz/pp.xml",女性时尚HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000212@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="央视精品HD" tvg-logo="https://epg.112114.xyz/logo/央视精品HD.png" epg-url="https://epg.112114.xyz/pp.xml",央视精品HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000209@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="央视怀旧剧场HD" tvg-logo="https://epg.112114.xyz/logo/央视怀旧剧场HD.png" epg-url="https://epg.112114.xyz/pp.xml",央视怀旧剧场HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000210@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江苏城市HD" tvg-logo="https://epg.112114.xyz/logo/江苏城市HD.png" epg-url="https://epg.112114.xyz/pp.xml",江苏城市HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000224@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江苏公共新闻HD" tvg-logo="https://epg.112114.xyz/logo/江苏公共新闻HD.png" epg-url="https://epg.112114.xyz/pp.xml",江苏公共新闻HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000229@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江苏教育HD" tvg-logo="https://epg.112114.xyz/logo/江苏教育HD.png" epg-url="https://epg.112114.xyz/pp.xml",江苏教育HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000231@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江苏体育休闲HD" tvg-logo="https://epg.112114.xyz/logo/江苏体育休闲HD.png" epg-url="https://epg.112114.xyz/pp.xml",江苏体育休闲HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000226@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江苏影视HD" tvg-logo="https://epg.112114.xyz/logo/江苏影视HD.png" epg-url="https://epg.112114.xyz/pp.xml",江苏影视HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000227@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="江苏综艺HD" tvg-logo="https://epg.112114.xyz/logo/江苏综艺HD.png" epg-url="https://epg.112114.xyz/pp.xml",江苏综艺HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000225@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="优漫卡通HD" tvg-logo="https://epg.112114.xyz/logo/优漫卡通HD.png" epg-url="https://epg.112114.xyz/pp.xml",优漫卡通HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000228@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="金鹰纪实HD" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实HD.png" epg-url="https://epg.112114.xyz/pp.xml",金鹰纪实HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000187@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="茶HD" tvg-logo="https://epg.112114.xyz/logo/茶HD.png" epg-url="https://epg.112114.xyz/pp.xml",茶HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000160@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="快乐垂钓HD" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓HD.png" epg-url="https://epg.112114.xyz/pp.xml",快乐垂钓HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000142@JSBC
+#EXTINF:-1 group-title="联通" tvg-name="精彩推荐HD" tvg-logo="https://epg.112114.xyz/logo/精彩推荐HD.png" epg-url="https://epg.112114.xyz/pp.xml",精彩推荐HD
+rtsp://157.0.143.37:554/JSBC_iptv/C10000118@JSBC
